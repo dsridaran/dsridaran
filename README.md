@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me:
 - 🎓 I’m currently pursuing a Master of Business Analytics at MIT
-- 📫 How to reach me: dilan.sridaran@gmail.com
+- 📫 Contact: dilan.sridaran@gmail.com
 
 ## 🚀 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
