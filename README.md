@@ -1,7 +1,6 @@
 # Hello, I'm Dilan! 👋
 
 ## 👨🏻‍💻 About Me:
-- 🎓 I’m currently pursuing a Master of Business Analytics at MIT
 - 📫 Contact: dilan.sridaran@gmail.com
 
 ## 🚀 Languages and Tools:
